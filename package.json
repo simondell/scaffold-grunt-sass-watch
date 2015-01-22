@@ -1,7 +1,7 @@
 {
   "name": "grunt sass scaffold",
   "version": "0.0.1",
-  "description": "working out a sass/chrome-dev-tools workflow",
+  "description": "Bare-bones HTML & sass scaffold with a dev server & live-reload.",
   "main": "site/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
