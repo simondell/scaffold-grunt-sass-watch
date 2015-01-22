@@ -1,0 +1,18 @@
+$vertRiddim: 20px;
+$foreGround: #088;
+
+html {
+	font-size: $vertRiddim / 1.2;
+}
+
+body {
+	font-size: 1rem;
+	line-height: $vertRiddim;
+	color: $foreGround;
+}
+
+h1 {
+	color: darker( $foreGround, 20% );
+	font-size: 2rem;
+	line-height: $vertRiddim * 2;
+}
