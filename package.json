@@ -1,5 +1,5 @@
 {
-  "name": "grunt sass scaffold",
+  "name": "grunt-sass-scaffold",
   "version": "0.0.1",
   "description": "Bare-bones HTML & sass scaffold with a dev server & live-reload.",
   "main": "site/index.html",

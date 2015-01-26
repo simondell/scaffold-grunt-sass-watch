@@ -1,14 +1,14 @@
 html {
-  font-size: 16.6666666667px; }
+  font-size: 33.3333333333px; }
 
 body {
   font-size: 1rem;
-  line-height: 20px;
-  color: #088; }
+  line-height: 40px;
+  color: blue; }
 
 h1 {
-  color: darker(#088, 20%);
+  color: darker(blue, 20%);
   font-size: 2rem;
-  line-height: 40px; }
+  line-height: 80px; }
 
 /*# sourceMappingURL=styles.css.map */
